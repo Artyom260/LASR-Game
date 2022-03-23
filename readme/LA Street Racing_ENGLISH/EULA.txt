@@ -1,0 +1,151 @@
+=========================
+Table of Contents
+=========================
+
+1.  Technical Support
+2.  Game Warranty
+3.  END-USER LICENSE AGREEMENT
+4.  Copyright
+5.  Grant of License
+6.  Permitted Uses
+7.  Restrictions
+8.  Editor and End-User Variations
+9.  Termination
+10. Limited Warranty
+11. General
+
+
+=========================
+1. Technical Support
+=========================
+
+For Updates and questions, visit us at:
+http://www.groovegames.com
+
+Email us at:
+support@groovegames.com
+
+Mail us at: 
+Groove Games
+55 Mill Street, Building 5, 3rd Floor
+Toronto, ON. Canada 
+M5A 3C4
+
+
+=========================
+2. Game Warranty / Legal
+=========================
+
+Visit us online at www.groovegames.com
+
+COMPATABILITY TESTING BY “Groove Media Inc”
+
+
+=========================
+3. END-USER LICENSE AGREEMENT
+=========================
+Please be sure to carefully read and understand all of the rights and restrictions described in this End-User License Agreement (“EULA”).
+
+Agreement:
+This document is an agreement between you and Groove Media Inc. (“Company”).  The enclosed software game disc(s) (the “Software”) and any accompanying printed materials are licensed to you only on the condition that you accept all of the terms contained in this EULA.
+
+By opening this package, installing or otherwise using the Software you agree to be bound by the terms of this EULA.  
+
+
+=========================
+4. Copyright
+=========================
+
+The Software is protected by copyright laws and international copyright treaties as well as other intellectual property laws and treaties.  All title 
+and copyright in and to the Software (including but not limited to any images, photographs, animations, video, music, text and “applets” incorporated into the Software) and any printed materials accompanying the Software are owned by the Company or its Licensors.
+
+
+=========================
+5. Grant of License
+=========================
+
+The Software is licensed and not sold to you and its use is subject to this EULA.  The Company grants you a limited, personal, non-exclusive license to use the Software in the manner described in the user documentation.  The Company reserves all rights not expressly granted to you in this EULA.
+
+
+=========================
+6. Permitted Uses
+=========================
+
+1. If the Software is configured for loading on a hard drive, you may install and use the Software on a single computer.
+
+2. You may permanently transfer all your rights under this EULA, provided you retain no copies, you transfer all of the Software (including all component parts, the media and printed materials and any upgrades) and the recipient reads and accepts this EULA.
+
+
+=========================
+7. Restrictions
+=========================
+
+1. You may not delete or obscure any copyright, trademark or other proprietary notice on the Software or accompanying printed materials.
+
+2. You may not decompile, modify, reverse engineer, disassemble or otherwise reproduce the Software.
+
+3. You may not copy, rent, lease, sublicense, distribute, publicly display the software, create derivative works based on the Software (except to the extent expressly permitted in the Editor and End-User Variation section of this Agreement or other documentation accompanying the Software) or otherwise commercially exploit the Software.
+
+4. You may not electronically transmit the Software from one computer, console or other platform to another or over a network.
+
+5. You may not use any backup or archival copy of the Software for any purpose other than to replace the original copy in the even that it is destroyed or becomes defective.
+
+
+=========================
+8. Editor & End-User Variations
+=========================
+
+If the Software includes a feature that allows you to modify the Software or to construct new variations (an “Editor”), you may use such Editor to create modifications or enhancements to the Software, including the construction of new levels (collectively, the “Variations”), subject to the following restrictions.  
+
+Your variations:
+
+1. Must only work with the full, registered copy of the Software;
+
+2. Must not contain modifications to any executable file;
+
+3. Must not contain any libelous, defamatory or other illegal material, material that is scandalous or invades the rights of privacy or publicity of third parties;
+
+4. May not be commercially exploited by you, including but not limited to making such variations available for sale or as part of a pay-per-play or timesharing service.
+
+
+=========================
+9. Termination
+=========================
+
+This EULA is effective until terminated.  You may terminate this EULA at any time by destroying the Software.  This EULA will terminate automatically without notice from the Company if you fail to comply with any provisions of this EULA.  All provisions of this EULA as to warranties, limitation of liability, remedies and damages will survive termination.
+
+
+=========================
+10. Limited Warranty
+=========================
+
+The Software and media are supplied “AS IS”.  You are aware and agree that the use of the Software and the media on which it is recorded is at your sole risk.   Unless otherwise provided by applicable law, the Company warrants to the original purchaser of this product that the Software storage medium will be free from defects in materials and workmanship under normal use and shall operate in conformance with its documentation for ninety (90) days from the date of purchase.  This warranty is void if the defect has arisen through accident, abuse, neglect or misapplication.  If the Software fails to conform to this Warranty, you may, as your sole and exclusive remedy, obtain a replacement free of charge or a refund of the purchase price, the choice of which shall be determined by the Company, if you return the defective Software.  Follow the Product Return Procedures described in the Manual.  The Company does not 
+warrant that the Software or its operations of functions will meet your requirements, or that the use of the Software will be without interruption or error.
+
+TO THE FULLEST EXTENT PERMISSABLE UNDER APPLICABLE LAW, EXCEPT FOR THE EXPRESS WARRANTY SET FORTH ABOVE, THE COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING AND WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.  
+
+EXCEPT FOR THE EXPRESS WARRANTIY SET FORTH ABOVE, THE COMPANY DOES NOT WARRANT, GUARANTEE OR MAKE ANY REPRESENTATION REGARDING THE USE OR THE RESULTS OF THE USE OF THE SOFTWARE IN TERMS OF ITS CORRECTNES, ACCURACY, RELIABILITY, CURRENTNESS OR OTHERWISE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+
+IN NO EVENT WILL THE COMPANY, ITS EMPLOYEES, OFFICERS, DIRECTORS OR LICENSORS BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR INJURY TO PERSON OR PROPERTY, FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, LOSS OF PRIVACY, FAILURE TO MEET ANY DUTY AND NEGLIGENCE) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF THE COMPANY OR AUTHORIZED REPRESENTATIVE OF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.  IN NO EVENT WILL THE LIABILITY OF THE COMPANY FOR DAMAGES WITH RESPECT TO THE SOFTWARE EXCEED THE AMOUNTS ACTUALLY PAID BY YOU FOR THE SOFTWARE.
+
+
+=========================
+11. General
+=========================
+
+This EULA constitutes the entire agreement between you and the Company.  If any provision of this EULA is found to be unlawful, void, or for any reason unenforceable, it will be severed from and in no way affect the validity or enforceability of the remaining provisions of the EULA. This EULA is governed by the laws of the Province of Ontario, Canada, exclusive of its conflict of laws provisions.  You hereby attorn to the jurisdiction of the courts
+of the Province of Ontario, Canada.
+
+© 2006 Groove Media Inc.  All rights reserved.  Groove Games™ and the Groove logo are the trademarks of Groove Media Inc.  L.A. Street Racing™ and the associated logo are the property of Groove Media Inc. Produced by Produced by Octagon Entertainment, Inc. Octagon Entertainment™ and the Octagon Entertainment logo a re trademarks of Octagon Entertainment Inc.  Developed by Invictus Games Ltd. The Invictus logo is a trademark of Invictus Games Ltd. 
+
+Uses Open Dynamics Engine, copyright © 2001-2004 by Russell L. Smith. 
+All rights reserved. 
+
+Uses FMOD Sound System, © 1994-2006 by Firelight Technologies Pty, Ltd. 
+All rights reserved.
+
+The ratings icon is a trademark of the Entertainment Software Association. 
+
+All other trademarks are property of their respective owners.
+
+

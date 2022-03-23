@@ -1,0 +1,150 @@
+=========================
+Tabla de contenidos
+=========================
+
+1.  Asistencia técnica
+2.  Garantía del juego
+3.  ACUERDO DE LICENCIA DEL USUARIO FINAL
+4.  Copyright
+5.  Garantía de la licencia
+6.  Usos permitidos
+7.  Restricciones
+8.  Variaciones de editor y usuario final
+9.  Terminación 
+10. Garantía limitada
+11. General
+
+
+=========================
+1. Asistencia técnica
+=========================
+
+Si tiene cualquier duda o desea actualizar su producto, visítenos en:
+http://www.groovegames.com
+
+Dirección de correo electrónico:
+support@groovegames.com
+
+Dirección de correo postal: 
+Groove Games
+55 Mill Street, Building 5, 3rd Floor
+Toronto, ON. Canada 
+M5A 3C4
+
+
+=========================
+2. Garantía legal del juego
+=========================
+
+Puede visitarnos online en www.groovegames.com
+
+TEST DE COMPATIBLIDAD REALIZADO POR "Groove Media Inc"
+
+
+=========================
+3. ACUERDO DE LICENCIA DEL USUARIO FINAL
+=========================
+Por favor, lea cuidadosamente este documento y asegúrese de que entiende todos los derechos y restricciones descritos en este acuerdo de licencia del usuario final ("EULA").
+
+Acuerdo:
+Este documento supone un acuerdo entre usted y Groove Media Inc. (la "Compañía"").  Esta licencia le permite instalar y usar el disco o discos de software incluidos (el "Software"), así como cualquier otro material impreso siempre y cuando acepte todos los términos contenidos en este EULA.
+
+Al abrir este producto, instalar el Software o usarlo, usted accede a los términos establecidos en este EULA.  
+
+
+=========================
+4. Copyright
+=========================
+
+Este Software está protegido por las leyes y tratados internacionales de copyright, así como por otras leyes y tratados de propiedad intelectual. Son propiedad de la Compañía o de sus Licenciantes todos los los títulos y copyrights contenidos en este Software (incluyendo imágenes, fotografías, animaciones, vídeo, música, textos y "applets"), así como todo aquel material impreso que acompañe a este Software.
+
+
+=========================
+5. Garantía de la licencia
+=========================
+
+Este software le es otorgado pero no vendido, por lo que su uso está sujeto a las condiciones establecidas en este EULA. La Compañía le otorga la siguiente licencia limitada, personal y no exclusiva para usar el Software de la forma descrita en la documentación del usuario. La Compañía se reserva todos los derechos no otorgados de forma expresa en este EULA.
+
+
+=========================
+6. Usos permitidos
+=========================
+
+1. Si el Software se encuentra configurado para ser cargado en un disco duro, puede instalarlo y usarlo en un solo ordenador.
+
+2. Puede usted transferir de forma permanente todos los derechos contemplados en este EULA, siempre y cuando no guarde ninguna copia, transfiera todo el contenido de este Software (incluyendo todos los componentes, los materiales impresos y audiovisuales y cualquier actualización existente) y la persona que reciba el Software lea y acepte este EULA.
+
+
+=========================
+7. Restricciones
+=========================
+
+1. No podrá borrar ni alterar ningún copyright, marca registrada o cualquier otra indicación de autoría que aparezca en el Software o en cualquiera de los materiales impresos que lo acompañan.
+
+2. No podrá decompilar, modificar, utilizar técnicas de ingeniería inversa, desmontar o intentar reproducir de ninguna forma este Software.
+
+3. No podrá copiar, alquilar, arrendar, conceder segundas licencias, distribuir, hacerlo accesible mediante una red, o crear cualquier tipo de trabajo  asado en este Software(a excepción de aquellos usos expresamente permitidos en la sección Variaciones de editor y usuario final o en cualquier otra documentación que acompañe a este Software) ni explotar comercialmente este Software de forma alguna.
+
+4. No podrá hacer accesible este Software mediante una red de ordenadores, consolas o cualquier otro tipo de plataformas.
+
+5. No podrá usar ninguna copia de este Software para otro propósito que no sea el de reemplazar la copia original en el caso de que ésta sea destruida o deje de funcionar correctamente.
+
+
+=========================
+8. Variaciones de editor y usuario final
+=========================
+
+En caso de que el Software incluya alguna función que le permita modificarlo o crear nuevas variaciones (un "Editor"), puede usted usar dicho Editor para crear modificaciones y mejoras en el Software, incluyendo la construcción de nuevos niveles, (en general, las "Variaciones"), las cuales se encuentran sujetas a las siguientes restricciones.  
+
+Sus variaciones:
+
+1. Sólo deben funcionar con la copia completa y registrada del Software.
+
+2. No deben contener modificaciones de ningún archivo ejecutable.
+
+3. No deben contener material difamatorio, calumnioso, ilegal o que viole los derechos, la privacidad o la imagen pública de terceras  partes.
+
+4. No podrá ser explotado comercialmente, incluyendo pero sin limitarse a las variaciones que permitan su venta como pay-per-play o servicio de uso compartido.
+
+
+=========================
+9. Terminación 
+=========================
+
+Este EULA es efectivo hasta la terminación de la licencia.  Puede terminar este EULA en cualquier momento si destruye el Software. Este EULA terminará automáticamente y sin aviso previo por parte de la Compañía si usted no cumple con alguno de los artículos expuestos. Todas las disposiciones de este EULA referentes a garantías, limitación de responsabilidad, recursos y daños serán siendo vigentes tras la terminación.
+
+
+=========================
+10. Garantía limitada
+=========================
+
+Este Software y sus contenidos multimedia se proporcionan "tal cual". Usted es consciente y acepta que el uso de este Software y el soporte en el que se encuentra almacenado permanecen bajo su propia responsabilidad. A no ser que las leyes oportunas estipulen lo contrario, la Compañía garantiza al comprador original del producto que el soporte de almacenamiento de este Software estará libre de cualquier posible defecto durante un período de uso normal de noventa (90) días tras la fecha de la compra. Esta garantía no es válida si dicho defecto aparece como consecuencia de un accidente, uso inapropiado o
+o negligencia. En caso de que el Software no cumpla con dicha Garantía, usted puede, como única compensación y tras devolver el Software defectuoso, obtener una copia nueva sin cargo alguno o recibir un reembolso del dinero. La Compañía determinará el procedimiento a seguir en cada caso. Por favor, siga el procedimiento para la devolución del producto que se encuentra descrito en el manual. La Compañía no garantiza que el Software o sus funciones sean
+plenamente satisfactorias para usted, como tampoco garantiza que el uso del Software esté libre de errores o interrupciones.
+
+LA COMPAÑIA RECHAZA TODA GARANTÍA, EXPRESA O IMPLÍCITA, INCLUYENDO LAS GARANTÍAS DE COMERCIABILIDAD O IDONEIDAD PARA UN FIN DETERMINADO, A EXCEPCIÓN
+DE LAS MENCIONADAS EXPRESAMENTE EN ESTA LICENCIA.  EXCEPCIÓN HECHA DE LA GARANTÍA EXPRESA INDICADA EN ESTA LICENCIA, LA COMPAÑÍA NO GARANTIZA NI HACE DECLARACIÓN ALGUNA EN LO QUE RESPECTA AL USO O LOS RESULTADOS DERIVADOS DEL USO DE ESTE SOFTWARE EN LO QUE SE REFIERE A SU CORRECCIÓN, EXACTITUD, FIABILIDAD O VIGENCIA.  ALGUNOS PAÍSES NO PERMITEN LA EXCLUSIÓN O LIMITACIÓN DE LAS GARANTÍAS IMPLÍCITAS, POR LO QUE ES POSIBLE QUE LAS EXCLUSIONES Y LIMITACIONES EXPUESTAS ANTERIORMENTE NO SEAN APLICABLES EN SU CASO.
+
+EN NINGÚN CASO LA COMPAÑIA, SUS OFICIALES, ACCIONISTAS, DIRECTORES, EMPLEADOS, AGENTES O LICENCIANTES SERÁN RESPONSABLES DE CUALQUIER DAÑO INDIRECTO, ESPECIAL, INCIDENTAL, DERIVADO, PUNITIVO O DE CUALQUIER OTRO TIPO (INCLUYENDO PERO SIN LIMITARSE A CUALQUIER DAÑO A PERSONAS O PROPIEDADES, PÉRDIDAS ECONÓMICAS, INTERRUPCIÓN DE SERVICIO, PÉRDIDA DE INFORMACIÓN EMPRESARIAL, PÉRDIDA DE PRIVACIDAD, FALLOS GENERALES Y NEGLIGENCIAS) PRODUCIDOS CON RELACIÓN AL USO O LA INCAPACIDAD DE USAR EL SOFTWARE, INCLUSO SI SE HA AVISADO A LA COMPAÑIA DE LA POSIBILIDAD DE TALES DAÑOS. ALGUNO PAÍSES NO PERMITEN LA EXCLUSIÓN O LIMITACIÓN DE DAÑOS INCIDENTALES O DERIVADOS, POR LO QUE ES POSIBLE QUE LAS EXCLUSIONES EXPUESTAS ANTERIORMENTE NO SEAN APLICABLES EN SU CASO. EN NINGÚN CASO LA RESPONSABILIDAD POR DAÑOS DE LA COMPAÑÍA EXCEDERÁ LA CANTIDAD ABONADA POR EL USUARIO PARA LA COMPRA DEL SOFTWARE.
+
+
+=========================
+11. General
+=========================
+
+Este EULA constituye un acuerdo entre usted y la Compañía. Si cualquier disposición de este EULA se reconociera como no válida, ilegal o no aplicable, la validez, legalidad y aplicabilidad de las disposiciones restantes no se verá afectada ni reducida de ninguna forma. Este EULA se rige por las leyes de la provincia de Ontario, Canadá. Usted accede a transferir la jurisdicción a los tribunales de la provincia de Ontario, Canadá.
+
+(c) 2006 Groove Media Inc. Todos los derechos reservados. Groove Games(tm) y el logo de Groove son marcas registradas de Groove Media Inc.  L.A. Street Racing(tm) y el logo asociado son propiedad de Groove Media Inc. Producido por Octagon Entertainment.  Inc. Octagon Entertainment(tm) y el logo de Octagon Entertainment son marcas registradas de Octagon Entertainment Inc. Desarrollado por Invictus Games Ltd. El logo de Invictus es una marca registrada de
+Invictus Games Ltd. 
+
+Uso de Open Dynamics Engine, copyright (c) 2001-2004 de Russell L. Smith.
+Todos los derechos reservados. 
+
+Uso de FMOD Sound System, (c) 1994-2006 de Firelight Technologies Pty, Ltd. 
+Todos los derechos reservados.
+
+El icono de las puntuaciones es una marca registrada de Entertainment Software Association. 
+
+Todas las demás marcas son propiedad de sus respectivos dueños.
+
+

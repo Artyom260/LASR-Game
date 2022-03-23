@@ -1,0 +1,149 @@
+=========================
+Indice
+=========================
+
+1.  Supporto tecnico
+2.  Garanzia del gioco
+3.  CONTRATTO DI LICENZA PER L'UTENTE FINALE
+4.  Copyright
+5.  Concessione di Licenza
+6.  Usi concessi
+7.  Restrizioni
+8.  Variazioni dell'Utente finale e dell'Editor.
+9.  Risoluzione
+10. Garanzia limitata
+11. Generali
+
+
+=========================
+1. Supporto tecnico
+=========================
+
+Per aggiornamenti e domande, visitare:
+http://www.groovegames.com
+
+E-mail:
+support@groovegames.com
+
+Indirizzo: 
+Groove Games
+55 Mill Street, Building 5, 3rd Floor
+Toronto, ON. Canada 
+M5A 3C4
+
+
+=========================
+2. Garanzia del gioco / Legale
+=========================
+
+Visitateci online su www.groovegames.com
+
+TEST DI COMPATIBILITÀ DI “Groove Media Inc.”
+
+
+=========================
+3. CONTRATTO DI LICENZA PER L'UTENTE FINALE
+=========================
+Leggere attentamente tutti i diritti e le restrizioni descritte descritti nel presente Contratto di Licenza per l'Utente finale (“EULA”).
+
+Contratto
+Il presente documento costituisce un contratto fra l'Utente e Groove Media Inc.  (Società). Il disco o i dischi del Software di gioco (il Software) acclusi e l'eventuale materiale cartaceo di accompagnamento sono concessi in licenza all'Utente solamente a condizione che quest'ultimo accetti tutti i termini 
+contenuti nel presente Contratto.
+
+Aprendo questa confezione, installando o altrimenti utilizzando il Software, l'Utente accetta di essere vincolato dalle condizioni del presente Contratto. 
+
+
+=========================
+4. Copyright
+=========================
+
+Il Software è tutelato dalle leggi sul copyright, dai trattati internazionali sul copyright nonché da ulteriori leggi e trattati sulla proprietà intellettuale. Tutti i titoli e i copyright nel e del Software (ivi inclusi, in via esemplificativa, ogni immagine, fotografia, animazione, video, musica, testo ed applet incorporati nel Software) ed eventuale materiale cartaceo di accompagnamento sono proprietà della Società 
+o degli aventi diritto.
+
+
+=========================
+5. Concessione di Licenza
+=========================
+
+È concessa all'Utente una licenza per il Software, la proprietà del Software non è trasferita all'Utente e la sua utilizzazione è soggetta al presente Contratto. La Società concede all'Utente una licenza non esclusiva di utilizzazione del Software nei modi descritti nella documentazione utente. La Società si riserva tutti i diritti non concessi espressamente all'Utente nel presente Contratto.
+
+
+=========================
+6. Usi concessi
+=========================
+
+1. Se il Software è configurato per il caricamento da disco rigido, l'Utente può installare ed utilizzare il Software su un unico computer.
+
+2. L'Utente può trasferire permanentemente i propri diritti contenuti nel presente Contratto, a condizione che non trattenga  alcuna copia e che trasferisca l'intero Software (incluse tutte le parti componenti, i supporti fisici ed il materiale cartaceo così come ogni aggiornamento) e che il destinatario legga ed accetti il presente Contratto.
+
+
+=========================
+7. Restrizioni
+=========================
+
+1. All'Utente è fatto divieto di rimuovere o nascondere qualsiasi copyright, marchio registrato o altre note proprietarie nel Software o nel materiale cartaceo allegato.
+
+2. L'Utente non può decompilare, modificare, decodificare, disassemblare o riprodurre in altro modo il Software.
+
+3. L'Utente non può effettuare copie del Software, né concederlo in locazione, in leasing o in sublicenza. L'Utente non può distribuire o mostrare pubblicamente il Software, né creare prodotti da esso derivati (eccetto nei termini espressamente consentiti nella sezione Editor e Variazioni dell'Utente finale del presente Contratto o di altra documentazione allegata al Software) o sfruttare in altro modo il Software a fini commerciali.
+
+4. L'Utente non può trasferire il Software elettronicamente da un computer, console o altra piattaforma ad un'altra o distribuirlo in rete.
+
+5. L'Utente non può utilizzare alcun backup o copia di archivio del Software per fini diversi dalla sostituzione della copia originale qualora questa sia distrutta o diventi difettosa.
+
+
+=========================
+8. Variazioni dell'Utente finale e dell'Editor.
+=========================
+
+Se il Software è dotato di una caratteristica che permette all'Utente di modificare il Software o di crearne nuove varianti (un Editor), l'Utente può utilizzare tale Editor per creare modificazioni o miglioramenti per il Software, compresa la creazione di nuovi livelli (detti collettivamente, le Variazioni), soggetto alle seguenti restrizioni. 
+
+Le variazioni dell'Utente:
+
+1. Devono funzionare unicamente con una copia completa e registrata del Software;
+
+2. Non devono contenere modificazioni per nessun file eseguibile;
+
+3. Non devono contenere alcun materiale calunnioso, diffamatorio o altro materiale illegale, scandaloso o lesivo dei diritti di tutela dell'immagine e della privacy di parti terze;
+
+4. Non possono essere sfruttati dall'Utente a fini commerciali, ivi inclusi, in via esemplificativa, la messa in vendita o l'inclusione in servizi di pay-per-play o timesharing.
+
+
+=========================
+9. Risoluzione
+=========================
+
+Il presente Contratto è valido fino alla risoluzione. L'Utente può risolvere il presente Contratto in qualsiasi momento distruggendo il Software. Il presente Contratto si risolverà automaticamente e senza notifica della Società qualora l'Utente non si attenga alle disposizioni del presente Contratto. Tutte le disposizioni del presente Contratto riguardanti garanzie, limitazione di responsabilità, rimedi e danni permarranno dopo la risoluzione.
+
+
+=========================
+10. Garanzia limitata
+=========================
+
+Il Software ed il supporto fisico sono forniti COSÌ COME SONO. L'utente è consapevole e accetta che l'uso del software e del supporto fisico sul quale è registrato avviene a suo unico rischio.  Salvo diversamente indicato da leggi applicabili, la Società garantisce all'acquirente originale di questo prodotto che il supporto sul quale il Software è stato registrato è privi di difetti di materiali e di fabbricazione, in condizioni normali d'uso, per un 
+periodo di novanta (90) giorni dalla data di acquisto. Tale garanzia non è da ritenersi applicabile qualora il difetto sia causato da incidenti, egligenza, uso improprio o scorretto.  Qualora il software non fosse conforme a questa Garanzia, l'unico ed esclusivo rimedio dell'Utente sarà di ottenere una sostituzione gratuita del prodotto o un rimborso del prezzo di acquisto, a discrezione della Società, qualora l'utente restituisca il prodotto difettoso. A tale fine l'utente deve seguire le procedure descritte nel manuale. La Società non garantisce che il Software o il suo utilizzo rispettino le attese dell'Utente, o che il Software sia privo di errori o che funzionerà senza alcuna interruzione.
+
+CON LA MASSIMA ESTENSIONE CONSENTITA DALLE LEGGI APPLICABILI, ECCETTO PER LA GARANZIA ESPRESSAMENTE STABILITA PIÙ SOPRA, LA SOCIETÀ NON RICONOSCE ALCUNA GARANZIA, ESPRESSA O IMPLICITA, INCLUSE E SENZA LIMITAZIONE, LE GARANZIE IMPLICITE E LE CONDIZIONI DI COMMERCIABILITÀ, DI IDONEITÀ PER UNO SCOPO SPECIFICO E LA NON VIOLAZIONE DI DIRITTI ALTRUI. ECCETTO PER LA GARANZIA STABILITA PIÙ SOPRA, LA SOCIETÀ NON FORNISCE GARANZIA ALCUNA NÉ SI ASSUME RESPONSABILITÀ ALCUNA CIRCA L'USO O I RISULTATI DELL'USO DEL SOFTWARE IN TERMINI DI CORRETTEZZA, DI ACCURATEZZA, DI AFFIDABILITÀ, PROPRIETÀ CORRENTE O ALTRO. POICHÉ ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DELLE GARANZIE IMPLICITE, LE LIMITAZIONI ED ESCLUSIONI DI CUI SOPRA POTREBBERO NON ESSERE APPLICABILI ALL'UTENTE.
+
+LA SOCIETÀ, I SUOI DIPENDENTI, FUNZIONARI, DIRIGENTI O AVENTI DIRITTO NON SARANNO, IN ALCUN CASO, RESPONSABILI PER DANNI INCIDENTALI, INDIRETTI, SPECIALI, CONSEQUENZIALI O PUNITIVI, O DANNI DI QUALSIASI TIPO (INCLUSI, SENZA LIMITAZIONI, DANNI ALLA PERSONA O ALLA PROPRIETÀ, DERIVANTI DALLA PERDITA DI PROFITTI, 
+DALL'INTERRUZIONE DEL CICLO LAVORATIVO, DALLA PERDITA DI INFORMAZIONI PROFESSIONALI, DALLA PERDITA DI PRIVACY, DALL'IMPOSSIBILITÀ DI ADEMPIERE A DOVERI E NEGLIGENZA) DERIVANTI O IN QUALSIASI MODO LEGATI ALL'USO O ALL'INCAPACITÀ DI USARE IL SOFTWARE, ANCHE SE LA SOCIETÀ O I SUOI RAPPRESENTATI AUTORIZZATI 
+SONO STATI PREVIAMENTE AVVERTITI DELLA POSSIBILITÀ DI TALI DANNI.  POICHÉ ALCUNE GIURISDIZIONI NON CONSENTONO L'ESCLUSIONE DI RESPONSABILITÀ PER DANNI INCIDENTALI O CONSEQUENZIALI, LE LIMITAZIONI ED ESCLUSIONI DI CUI SOPRA POTREBBERO NON ESSERE APPLICABILI ALL'UTENTE. IN NESSUN CASO LA RESPONSABILITÀ DELLA SOCIETÀ PER DANNI CONSEGUITI A CAUSA DEL SOFTWARE PUÒ ECCEDERE LA SOMMA PAGATA DALL'UTENTE PER L'ACQUISTO DEL SOFTWARE.
+
+
+=========================
+11. Generali
+=========================
+
+Il presente Contratto è un accordo vincolante tra l'Utente e la Società. Nel caso in cui qualsiasi clausola del presente Contratto fosse dichiarata illegale, nulla o non applicabile per qualsiasi ragione, sarà rimossa dal presente Contratto è non avrà nessun effetto sulle rimanenti clausole del Contratto. Il presente Contratto è regolato dalle leggi della provincia di Ontario, Canada, escluso qualsiasi conflitto con clausole di legge.  L'Utente accetta la giurisdizione delle corti della Provincia di Ontario, Canada.
+
+© 2006 Groove Media Inc. Tutti i diritti riservati. Groove Games™ e il Groove logo sono marchi registrati di Groove Media Inc.  L.A. Street Racing™ e il relativo logo sono proprietà di Groove Media Inc. Prodotto da Octagon Entertainment, Inc. Octagon Entertainment™ e il logo Octagon Entertainment sono marchi registrati di Octagon Entertainment Inc. Sviluppato da Invictus Games Ltd. Il logo Invictus è un marchio registrato di Invictus Games Ltd. 
+
+Utilizza Open Dynamics Engine, copyright © 2001-2004 di Russell L. 
+Smith. Tutti i diritti riservati. 
+
+Utilizza FMOD Sound System, © 1994-2006 di Firelight Technologies 
+Pty, Ltd. Tutti i diritti riservati.
+
+L'icona di classificazione è un marchio registrato della Entertainment Software Association. 
+Tutti gli altri marchi registrati appartengono ai loro rispettivi proprietari.
+

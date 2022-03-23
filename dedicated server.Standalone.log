@@ -1,0 +1,3801 @@
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x029a8ade (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 00000000029a8ade
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 67821345
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	28	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 15423867
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 029a8ade (notifyRemoveDedicatedServerNode)
+Info: Remove user: 029a8ade (DROP)
+Info: Drop room params:  32
+MGS: 0	30	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	31	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x03210f22 (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 0000000003210f22
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 71854623
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	40	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 34567281
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 03210f22 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 03210f22 (DROP)
+Info: Drop room params:  32
+MGS: 0	54	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	54	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x0ab4346e (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 000000000ab4346e
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 46237581
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	65	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 32841567
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: New network client: 0x0a735351 (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 33 /  0 ==> 000000000a735351
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (WS):  33 /  2 ==> NEKIT
+MGS: 0	67	C	NEKIT	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 0ab4346e (notifyRemoveDedicatedServerNode)
+Info: Remove user: 0ab4346e (DROP)
+Info: Drop room params:  32
+MGS: 0	75	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):    0 /  3 ==> 33
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   33 /  5 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 49 ==> 83415267
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x03469e1f (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 0000000003469e1f
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 72834561
+Info: Set room param (I):   32 / 35 ==> 1
+Info: Set room param (WS):  32 /  2 ==> NEKIT
+MGS: 0	2	C	NEKIT	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 87123456
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: New network client: 0x0f19a12e (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 33 /  0 ==> 000000000f19a12e
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   33 / 35 ==> 2
+Info: Set room param (WS):  33 /  2 ==> Artyom26
+MGS: 0	15	C	Artyom26	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):   33 / 14 ==> 1
+Info: Remove user: 0f19a12e (notifyRemoveDedicatedServerNode)
+Info: Remove user: 0f19a12e (DROP)
+Info: Drop room params:  33
+MGS: 0	23	D	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):    0 / 17 ==> 1
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 03469e1f (notifyRemoveDedicatedServerNode)
+Info: Remove user: 03469e1f (DROP)
+Info: Drop room params:  32
+MGS: 0	30	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	30	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x017713dc (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 00000000017713dc
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 86317245
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	51	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 35476812
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: New network client: 0x0647ef3e (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 33 /  0 ==> 000000000647ef3e
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (WS):  33 /  2 ==> NEKIT
+MGS: 0	53	C	NEKIT	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):    0 / 17 ==> 1
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 017713dc (notifyRemoveDedicatedServerNode)
+Info: Remove user: 017713dc (DROP)
+Info: Drop room params:  32
+MGS: 0	67	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):    0 /  3 ==> 33
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   33 /  5 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 49 ==> 47531862
+Info: Set room param (I):    0 / 17 ==> 0
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (I):   33 / 32 ==> 13
+Info: Set room param (I):   33 / 32 ==> 21
+Info: Set room param (I):   33 / 32 ==> 29
+Info: Set room param (I):   33 / 32 ==> 40
+Info: Set room param (I):   33 / 32 ==> 55
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 80
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 39 ==> 5
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (I):   33 / 32 ==> 90
+Info: Set room param (I):   33 / 32 ==> 95
+Info: Set room param (I):   33 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 186607
+Info: New network client: 0x0afd30ef (26.132.194.234:12321)
+Info: Set room param (I64): 34 /  0 ==> 000000000afd30ef
+Info: Set room param (I):   34 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   33 /  5 ==> 0
+Info: Set room param (I):   34 /  5 ==> 1
+Info: Set room param (I):   34 / 35 ==> 2
+Info: Set room param (WS):  34 /  2 ==> Artyom26
+MGS: 0	74	C	Artyom26	34
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   34 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   34 / 32 ==> 0
+Info: Set room param (I):   34 / 32 ==> 0
+Info: Set room param (I):   34 / 32 ==> 2
+Info: Set room param (I):   34 / 32 ==> 5
+Info: Set room param (I):   34 / 32 ==> 6
+Info: Set room param (I):   34 / 32 ==> 8
+Info: Set room param (I):   34 / 32 ==> 10
+Info: Set room param (I):   34 / 32 ==> 11
+Info: Set room param (I):   34 / 32 ==> 14
+Info: Set room param (I):   34 / 32 ==> 16
+Info: Set room param (I):   34 / 32 ==> 20
+Info: Set room param (I):   34 / 32 ==> 21
+Info: Set room param (I):   34 / 32 ==> 26
+Info: Set room param (I):   34 / 32 ==> 30
+Info: Set room param (I):    1 /  9 ==> 160
+Info: Set room param (I):   33 / 10 ==> 2
+MGS: 0	76	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   34 / 32 ==> 31
+Info: Set room param (I):   34 / 32 ==> 32
+Info: Set room param (I):   34 / 32 ==> 36
+Info: Set room param (I):   34 / 32 ==> 42
+Info: Set room param (I):   34 / 32 ==> 46
+Info: Set room param (I):   34 / 32 ==> 49
+Info: Set room param (I):   34 / 32 ==> 56
+Info: Set room param (I):   34 / 32 ==> 69
+Info: Set room param (I):   34 / 32 ==> 70
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   34 / 32 ==> 70
+Info: Set room param (I):   34 / 32 ==> 70
+Info: Set room param (I):   34 / 32 ==> 70
+Info: Set room param (I):   34 / 32 ==> 70
+Info: Set room param (I):   34 / 32 ==> 80
+Info: Param (0 / 39) change by 0x0AFD30EF failed!
+Info: Set room param (I):   34 / 35 ==> 2
+Info: Set room param (I):   34 / 32 ==> 90
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   34 / 32 ==> 95
+Info: Set room param (I):   34 / 32 ==> 100
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 5
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   34 / 14 ==> 1
+Info: Remove user: 0afd30ef (notifyRemoveDedicatedServerNode)
+Info: Remove user: 0afd30ef (DROP)
+Info: Drop room params:  34
+MGS: 0	95	D	34
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   33 /  5 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	100	EG	33	1
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 10 ==> 0
+MGS: 0	100	D	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 /  5 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (WS):  33 /  2 ==> NEKIT
+Info: Set room param (I):   33 /  1 ==> 1
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Drop room params:   1
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):    0 / 49 ==> 15678423
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 80
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: New network client: 0x0647ef3e (26.78.62.177:12321)
+Info: TCP thread close
+Info: TCP close...
+Info: Set room param (I):    0 / 17 ==> 15
+Info: TCP closed.
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x0cfc5310 (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 000000000cfc5310
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 67548213
+Info: Set room param (I):   32 / 35 ==> 1
+Info: Set room param (WS):  32 /  2 ==> NEKIT
+MGS: 0	20	C	NEKIT	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 73218456
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 0cfc5310 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 0cfc5310 (DROP)
+Info: Drop room params:  32
+MGS: 0	32	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	32	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x019d534d (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 00000000019d534d
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 73468125
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	47	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 41568723
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Remove user: 019d534d (notifyRemoveDedicatedServerNode)
+Info: Remove user: 019d534d (DROP)
+Info: Drop room params:  32
+MGS: 0	49	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	49	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x079af9e5 (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 00000000079af9e5
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 51276834
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	52	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 78241365
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 079af9e5 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 079af9e5 (DROP)
+Info: Drop room params:  32
+MGS: 0	53	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	53	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x0eb24c6d (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 000000000eb24c6d
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 65782341
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	56	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 14526783
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Remove user: 0eb24c6d (notifyRemoveDedicatedServerNode)
+Info: Remove user: 0eb24c6d (DROP)
+Info: Drop room params:  32
+MGS: 0	57	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	57	SI	LASR_Now	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	aaa	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x07bf58f2 (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 0000000007bf58f2
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 82463751
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	61	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 35786124
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):    0 / 17 ==> 1
+Info: Set room param (I):    0 / 17 ==> 0
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 22 ==> 100
+Info: Set room param (I):   32 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   32 / 10 ==> 1
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 80
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 39 ==> 5
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (I):   32 / 32 ==> 90
+Info: Set room param (I):   32 / 32 ==> 95
+Info: Set room param (I):   32 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 1353723
+Info: Set room param (I):    1 /  9 ==> 160
+Info: Set room param (I):   32 / 10 ==> 2
+MGS: 0	86	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 5
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 07bf58f2 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 07bf58f2 (DROP)
+Info: Drop room params:  32
+MGS: 0	89	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	89	EG	32	1
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Drop room params:   1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073283072
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 4
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 1792
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	90	SI	aaa	Europe	7	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073086464
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 3
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 2560
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	LASR_Now	Europe	10	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x08db90d0 (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 0000000008db90d0
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 81234567
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+MGS: 0	2	C	Artyom26	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 47812356
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: New network client: 0x09e47159 (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 33 /  0 ==> 0000000009e47159
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (WS):  33 /  2 ==> NEKIT
+MGS: 0	3	C	NEKIT	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):    0 / 17 ==> 1
+Info: Set room param (I):    0 / 17 ==> 0
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 22 ==> 100
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   32 / 21 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   32 / 10 ==> 1
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (I):   32 / 32 ==> 0
+Info: Set room param (I):   33 / 32 ==> 22
+Info: Set room param (I):   32 / 32 ==> 20
+Info: Set room param (I):   33 / 32 ==> 36
+Info: Set room param (I):   32 / 32 ==> 25
+Info: Set room param (I):   33 / 32 ==> 52
+Info: Set room param (I):   32 / 32 ==> 42
+Info: Set room param (I):   33 / 32 ==> 67
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 53
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 68
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 80
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Param (0 / 39) change by 0x09E47159 failed!
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (I):   33 / 32 ==> 90
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 80
+Info: Set room param (I):    0 /  9 ==> 2560
+Info: Set room param (I):    0 / 39 ==> 6
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (I):   32 / 32 ==> 90
+Info: Set room param (I):   33 / 32 ==> 95
+Info: Set room param (I):   33 / 32 ==> 100
+Info: Set room param (I):   32 / 32 ==> 95
+Info: Set room param (I):   32 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 1498781
+Info: Set room param (I):    1 /  9 ==> 100
+Info: Set room param (I):   32 / 10 ==> 2
+Info: Set room param (I):   33 / 10 ==> 2
+MGS: 0	27	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 6
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 6
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 7
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 7
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 8
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 8
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 9
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 9
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 10
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 10
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 11
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 11
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 500
+MGS: 0	154	S	33	lap	127.113
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 540
+Info: Set room param (I):   33 / 20 ==> 12
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+MGS: 0	164	S	32	lap	137.906
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 30
+Info: Set room param (I):   32 / 20 ==> 12
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 13
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 13
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 14
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 14
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 15
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 15
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 16
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 16
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 17
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 1040
+MGS: 0	274	S	33	lap	120.418
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 1080
+Info: Set room param (I):   33 / 20 ==> 18
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 17
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+MGS: 0	294	S	32	lap	129.405
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 60
+Info: Set room param (I):   32 / 20 ==> 18
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 19
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 19
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 20
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 20
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 21
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 21
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 22
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 22
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 20 ==> 23
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 23
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+MGS: 0	408	S	33	lap	133.582
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 1150
+Info: Set room param (I):   33 / 11 ==> 1220
+Info: Set room param (I):   33 / 11 ==> 1230
+Info: Set room param (I):   33 / 10 ==> 3
+Info: Set room param (I):   33 / 20 ==> 24
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):   33 / 10 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+MGS: 0	419	S	32	lap	124.985
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 110
+Info: Set room param (I):   32 / 11 ==> 160
+Info: Set room param (I):   32 / 11 ==> 170
+Info: Set room param (I):   32 / 10 ==> 3
+Info: Set room param (I):    0 /  2 ==> 3
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	419	EG	32	2	33	1
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 20 ==> 24
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):   32 / 10 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   33 / 10 ==> 0
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   32 / 32 ==> 0
+Info: Set room param (WS):  32 /  2 ==> Artyom26
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 63145782
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (WS):  33 /  2 ==> NEKIT
+Info: Set room param (I):   33 /  1 ==> 1
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Drop room params:   1
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 22 ==> 100
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   32 / 21 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   32 / 10 ==> 1
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 80
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Param (0 / 39) change by 0x09E47159 failed!
+Info: Set room param (I):   33 / 35 ==> 1
+Info: Set room param (I):   33 / 32 ==> 90
+Info: Set room param (I):   32 / 32 ==> 80
+Info: Set room param (I):    0 /  9 ==> 2560
+Info: Set room param (I):    0 / 39 ==> 6
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (I):   32 / 32 ==> 90
+Info: Set room param (I):   33 / 32 ==> 95
+Info: Set room param (I):   33 / 32 ==> 100
+Info: Set room param (I):   32 / 32 ==> 95
+Info: Set room param (I):   32 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 1905544
+Info: Set room param (I):    1 /  9 ==> 100
+Info: Set room param (I):   32 / 10 ==> 2
+Info: Set room param (I):   33 / 10 ==> 2
+MGS: 0	433	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Remove user: 08db90d0 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 08db90d0 (DROP)
+Info: Drop room params:  32
+MGS: 0	436	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):    0 /  3 ==> 33
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   33 /  5 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 37 ==> 1203910
+Info: Set room param (I):   33 / 14 ==> 1
+Info: Remove user: 09e47159 (notifyRemoveDedicatedServerNode)
+Info: Remove user: 09e47159 (DROP)
+Info: Drop room params:  33
+MGS: 0	436	D	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	436	EG	32	2	33	1
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Drop room params:   1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073086464
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 3
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 2560
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	437	SI	LASR_Now	Europe	10	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+----------------------------------------------------------------------
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073217536
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 3
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 2048
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	0	SI	1	Europe	8	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: New network client: 0x02bf78cf (26.78.62.177:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 32 /  0 ==> 0000000002bf78cf
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):    0 /  3 ==> 32
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):    0 / 49 ==> 84632715
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (WS):  32 /  2 ==> NEKIT
+MGS: 0	5	C	NEKIT	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 16548723
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: New network client: 0x058791ee (26.132.194.234:12321)
+Info: Set room param (I):    0 / 17 ==> 15
+Info: Set room param (I64): 33 /  0 ==> 00000000058791ee
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 / 14 ==> 2
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   33 / 35 ==> 2
+Info: Set room param (WS):  33 /  2 ==> Artyom26
+MGS: 0	12	C	Artyom26	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 /  1 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 17 ==> 14
+Info: Set room param (I):    0 / 17 ==> 13
+Info: Set room param (I):    0 / 17 ==> 12
+Info: Set room param (I):    0 / 17 ==> 11
+Info: Set room param (I):    0 / 17 ==> 10
+Info: Set room param (I):    0 / 17 ==> 9
+Info: Set room param (I):    0 / 17 ==> 8
+Info: Set room param (I):    0 / 17 ==> 7
+Info: Set room param (I):    0 / 17 ==> 6
+Info: Set room param (I):    0 / 17 ==> 5
+Info: Set room param (I):    0 / 17 ==> 4
+Info: Set room param (I):    0 / 17 ==> 3
+Info: Set room param (I):    0 / 17 ==> 2
+Info: Set room param (I):    0 / 17 ==> 1
+Info: Set room param (I):    0 / 17 ==> 0
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 22 ==> 100
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   32 / 21 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   32 / 10 ==> 1
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):   32 / 32 ==> 0
+Info: Set room param (I):   32 / 32 ==> 20
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (I):   32 / 32 ==> 36
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (I):   32 / 32 ==> 51
+Info: Set room param (I):   33 / 32 ==> 17
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 24
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 40
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 52
+Info: Set room param (I):   33 / 32 ==> 68
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 80
+Info: Set room param (I):    0 /  9 ==> 2048
+Info: Set room param (I):    0 / 39 ==> 5
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (I):   32 / 32 ==> 90
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 80
+Info: Set room param (I):   32 / 32 ==> 95
+Info: Param (0 / 39) change by 0x058791EE failed!
+Info: Set room param (I):   33 / 35 ==> 2
+Info: Set room param (I):   33 / 32 ==> 90
+Info: Set room param (I):   32 / 32 ==> 100
+Info: Set room param (I):   33 / 32 ==> 95
+Info: Set room param (I):   33 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 1359024
+Info: Set room param (I):    1 /  9 ==> 100
+Info: Set room param (I):   32 / 10 ==> 2
+Info: Set room param (I):   33 / 10 ==> 2
+MGS: 0	36	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 5
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 5
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 6
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 6
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 20 ==> 7
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 7
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 8
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 8
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 1
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 9
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 9
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 11 ==> 500
+MGS: 0	137	S	32	lap	101.908
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 540
+Info: Set room param (I):   32 / 20 ==> 10
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+MGS: 0	141	S	33	lap	105.495
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 30
+Info: Set room param (I):   33 / 20 ==> 10
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 11
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 11
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 12
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 12
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 13
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 13
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 14
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 14
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 11 ==> 1040
+MGS: 0	229	S	32	lap	91.659
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 1080
+Info: Set room param (I):   32 / 20 ==> 15
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 11 ==> 530
+MGS: 0	232	S	33	lap	90.754
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 560
+Info: Set room param (I):   33 / 20 ==> 15
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 16
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 16
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 17
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 17
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 18
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 18
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 20 ==> 19
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+MGS: 0	322	S	32	lap	93.295
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 11 ==> 1150
+Info: Set room param (I):   32 / 11 ==> 1220
+Info: Set room param (I):   32 / 11 ==> 1230
+Info: Set room param (I):   32 / 10 ==> 3
+Info: Set room param (I):   32 / 20 ==> 20
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 20 ==> 19
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 /  1 ==> 0
+Info: Set room param (I):   32 / 10 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+MGS: 0	331	S	33	lap	99.049
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 11 ==> 610
+Info: Set room param (I):   33 / 11 ==> 660
+Info: Set room param (I):   33 / 11 ==> 670
+Info: Set room param (I):   33 / 10 ==> 3
+Info: Set room param (I):    0 /  2 ==> 3
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	331	EG	32	1	33	2
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 20 ==> 20
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: TCP thread close
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 /  1 ==> 0
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):   32 / 10 ==> 0
+Info: Set room param (I):   33 / 10 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 /  5 ==> 0
+Info: Set room param (I):   33 /  5 ==> 1
+Info: Set room param (I):   32 / 32 ==> 0
+Info: Set room param (WS):  32 /  2 ==> NEKIT
+Info: Set room param (I):   32 /  1 ==> 1
+Info: Set room param (I):    0 / 49 ==> 65238741
+Info: Set room param (I):   33 / 32 ==> 0
+Info: Set room param (WS):  33 /  2 ==> Artyom26
+Info: Set room param (I):   33 /  1 ==> 1
+Info: Set room param (I):    0 /  2 ==> 2
+Info: Drop room param:   0 / 37
+Info: Drop room params:   1
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   32 / 11 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 11 ==> 0
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   32 / 22 ==> 100
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   33 / 22 ==> 100
+Info: Set room param (I):   32 / 21 ==> 100
+Info: Set room param (I):   33 / 21 ==> 100
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+Info: Set room param (I):   32 / 10 ==> 1
+Info: Set room param (I):   33 / 10 ==> 1
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 70
+Info: Set room param (I):   32 / 32 ==> 80
+Info: Set room param (I):   33 / 32 ==> 70
+Info: Set room param (I):    0 /  9 ==> 2048
+Info: Set room param (I):    0 / 39 ==> 5
+Info: Set room param (I):   32 / 35 ==> 2
+Info: Set room param (I):   32 / 32 ==> 90
+Info: Set room param (I):   33 / 32 ==> 80
+Info: Param (0 / 39) change by 0x058791EE failed!
+Info: Set room param (I):   33 / 35 ==> 2
+Info: Set room param (I):   33 / 32 ==> 90
+Info: Set room param (I):   32 / 32 ==> 95
+Info: Set room param (I):   32 / 32 ==> 100
+Info: Set room param (I):   33 / 32 ==> 95
+Info: Set room param (I):   33 / 32 ==> 100
+Info: Set room param (I):    0 / 37 ==> 1668812
+Info: Set room param (I):    1 /  9 ==> 100
+Info: Set room param (I):   32 / 10 ==> 2
+Info: Set room param (I):   33 / 10 ==> 2
+MGS: 0	345	SG
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):   32 / 14 ==> 1
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Remove user: 02bf78cf (notifyRemoveDedicatedServerNode)
+Info: Remove user: 02bf78cf (DROP)
+Info: Drop room params:  32
+MGS: 0	347	D	32
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   32 / 12 ==> 0
+Info: Set room param (I):   33 / 12 ==> 1
+Info: Set room param (I):    0 /  3 ==> 33
+Info: Set room param (I):    0 / 14 ==> 1
+Info: Set room param (I):   33 /  5 ==> 1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: Set room param (I):    0 / 37 ==> 2362415
+Info: Set room param (I):   33 / 14 ==> 1
+Info: Remove user: 058791ee (notifyRemoveDedicatedServerNode)
+Info: Remove user: 058791ee (DROP)
+Info: Drop room params:  33
+MGS: 0	348	D	33
+
+Info: TCP init 2
+Info: TCP threads start
+Info: Set room param (I):   33 / 12 ==> 0
+Info: Drop room param:   1 /  8
+Info: Drop room param:   1 /  7
+MGS: 0	348	EG	32	2	33	1
+
+Info: TCP init 2
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: TCP threads start
+Info: Drop room params:   1
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.
+Info: --- INIT ---
+
+Info: Server port= 12346
+Min user count= 1
+Max user count= 4
+Timeouts:
+  First login= 300s
+  Running state= 15s
+  Logout state= 10s
+  Wait for user= 15s
+  Max wait time= 60s
+Master Game Server= matchmaking.lastreetracinggame.com:443
+  Match ID= 0
+
+
+Info: Set room param (I64):  0 /  0 ==> 0000000000000001
+Info: Set room param (WS):   0 /  1 ==> rname
+Info: Set room param (I):    0 /  2 ==> 0
+Info: Set room param (I):    0 /  4 ==> 0
+Info: Set room param (I):    0 /  5 ==> 4
+Info: Set room param (I):    0 /  7 ==> 0
+Info: Set room param (I):    0 /  8 ==> 0
+Info: Set room param (I):    0 /  9 ==> 0
+Info: Set room param (I):    0 / 10 ==> 0
+Info: Set room param (I):    0 / 12 ==> 0
+Info: Set room param (I):    0 / 13 ==> 8707
+Info: Set room param (I):    0 / 14 ==> 0
+Info: Set room param (I):    0 / 16 ==> 262221
+Info: Set room param (I):    0 / 18 ==> 1
+Info: Set room param (I):    0 / 33 ==> -1073217536
+Info: Set room param (I):    0 / 34 ==> 0
+Info: Set room param (I):    0 / 35 ==> 0
+Info: Set room param (I):    0 /  8 ==> 2
+Info: Set room param (I):    0 / 36 ==> 3
+Info: Set room param (I):    0 / 39 ==> 4
+Info: Set room param (I):    0 /  9 ==> 2048
+Info: Set room param (I):    0 / 19 ==> 0
+Info: ip by getsockname: 0.0.0.0
+Info: Host name is DESKTOP-M3I60I4
+Info: Address 0: 26.132.194.234
+Info: Address 1: 25.47.31.35
+Info: Address 2: 192.168.50.10
+Info: 4 interfaces found:
+Info:  127.0.0.1
+Info:  192.168.50.10
+Info:  25.47.31.35
+Info:  26.132.194.234
+MGS: 0	348	SI	1	Europe	8	4	12346	26.132.194.234
+
+Info: TCP init 2
+Info: TCP threads start
+Info: TCP thread close
+Info: TCP close...
+Info: TCP closed.

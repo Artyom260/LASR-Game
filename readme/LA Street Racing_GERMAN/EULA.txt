@@ -1,0 +1,152 @@
+=========================
+Inhaltsangabe
+=========================
+
+1.  Technische Unterstützung
+2.  Gewährleistung
+3.  ENDBENUTZER-LIZENZVERTRAG
+4.  Urheberrecht
+5.  Lizenzerteilung
+6.  Gestattete Nutzung
+7.  Beschränkungen
+8.  Editor und Varianten des Endbenutzers
+9.  Beendigung
+10. Beschränkte Gewährleistung
+11. Allgemeines
+
+
+=========================
+1. Technische Unterstützung
+=========================
+
+Für Updates und Fragen besuchen Sie unsere Website:
+
+http://www.groovegames.com
+
+E-Mail an:
+support@groovegames.com
+
+Postadresse: 
+Groove Games
+55 Mill Street, Building 5, 3rd Floor
+Toronto, ON. Canada 
+M5A 3C4
+
+
+=========================
+2. Gewährleistung 
+=========================
+
+Besuchen Sie unsere Website: www.groovegames.com
+
+KOMPATIBILITÄTSPRÜFUNG DURCH “Groove Media Inc”
+
+
+=========================
+3. ENDBENUTZER-LIZENZVERTRAG
+=========================
+Bitte lesen Sie die Rechte und Beschränkungen dieses Endbenutzer-Lizenzvertrags (“EULA”) aufmerksam durch und vergewissern Sie sich, dass Sie die einzelnen 
+Punkte verstanden haben.
+
+Vertrag:
+Dieses Dokument ist ein Vertrag zwischen Ihnen und Groove Media Inc. (“Unternehmen”).  Die in diesem Spiel enthaltene(n) CD(s) (die „Software“) sowie das gedruckte Begleitmaterial werden nur für Ihren Gebrauch freigegeben, wenn Sie alle Bedingungen dieses EULA anerkennen.
+
+Wenn Sie diese Packung öffnen, die Software installieren oder anderweitig nutzen, erklären Sie sich mit den Bedingungen dieses EULA einverstanden.  
+
+
+=========================
+4. Urheberrecht
+=========================
+
+Die Software ist durch Urheberrechte und internationale Urheberrechtsvereinbarungen sowie weitere Gesetze und Vereinbarungen zum geistigen Eigentum geschützt. Jeglicher Rechtsanspruch und jegliches Urheberrecht an der Software (einschließlich, jedoch nicht beschränkt auf Bilder, Fotos, Animationen, Videos, Musik, Text und in die Software integrierte „Applets“) sowie an dem gedruckten Begleitmaterial der Software gehören dem Unternehmen oder seinen Lizenzgebern.
+
+
+=========================
+5. Lizenzerteilung
+=========================
+
+Die Software wird nicht an Sie verkauft, Sie erhalten nur eine Lizenz. Die Nutzung unterliegt den Bestimmungen dieses EULA.  Das Unternehmen erteilt Ihnen eine beschränkte, persönliche, nicht-exklusive Lizenz für die Nutzung der Software laut Beschreibung im Benutzerhandbuch. Das Unternehmen behält sich alle Rechte vor, die nicht ausdrücklich in diesem EULA genannt sind.
+
+
+=========================
+6. Gestattete Nutzung
+=========================
+
+1. Wenn die Software für das Speichern auf einer Festplatte konfiguriert ist, dürfen Sie sie auf einem Einzelcomputer installieren.
+
+2. Sie dürfen jederzeit Ihre Rechte aus diesem EULA an andere weitergeben, sofern Sie keine Kopien behalten, die gesamte Software weitergeben (einschließlich aller Einzelteile, Medien, gedrucktem Material und Upgrades) und der Empfänger dieses EULA liest und anerkennt.
+
+
+=========================
+7. Beschränkungen
+=========================
+
+1. Sie dürfen keine Urheberrechts-, Warenzeichen- oder andere Eigentumshinweise auf der Software oder dem gedruckten Begleitmaterial entfernen oder unkenntlich machen.
+
+2. Sie dürfen die Software nicht dekompilieren, modifizieren, reverse engineeren, disassemblieren oder anderweitig reproduzieren.
+
+3. Sie dürfen die Software nicht kopieren, vermieten, verleihen, unterlizenzieren, verteilen, öffentlich vorführen, abgeleitete Werke kreieren, die auf der Software basieren (ausgenommen den ausdrücklich im Kapitel Editor und Varianten des Endbenutzers dieses Vertrags oder in anderen der Software beigelegten Dokumenten genannten Umfang) oder die Software anderweitig kommerziell verwerten.
+
+4. Sie dürfen die Software nicht von einem Computer, einer Konsole oder anderen Plattform auf eine andere oder über ein Netzwerk elektronisch übertragen.
+
+5. Sie dürfen keine Sicherheits- oder Archivierungskopien der Software erstellen, es sei denn, um das Original im Falle von Defekt oder Zerstörung zu ersetzen.
+
+
+=========================
+8. Editor & Varianten des Endbenutzers
+=========================
+
+Wenn die Software eine Funktion beinhaltet, die es Ihnen ermöglicht, die Software zu verändern oder neue Varianten zu erstellen (“einen Editor”), so dürfen Sie diesen Editor verwenden, um Veränderungen oder Verbesserungen an der Software vorzunehmen, einschließlich die Erstellung neuer Level (zusammengefasst unter dem Begriff “Varianten”).  Dabei gelten die folgenden Beschränkungen.  
+
+Ihre Varianten
+
+1. dürfen ausschließlich mit der registrierten Vollversion der Software arbeiten;
+
+2. dürfen keine ausführbaren Dateien verändern;
+
+3. dürfen kein beleidigendes, diffamierendes oder anderes illegales Material enthalten, das anstößig ist oder das Recht auf Intimsphäre oder Öffentlichkeitsrechte Dritter beeinträchtigt;
+
+4. dürfen nicht kommerziell verwertet werden, einschließlich, jedoch nicht beschränkt auf Varianten, die käuflich zu erwerben sind oder als Pay-per-Play oder Timesharing angeboten werden.
+
+
+=========================
+9. Beendigung
+=========================
+
+Dieser EULA gilt bis zu seiner Beendigung. Sie können diesen EULA jederzeit beendigen, indem Sie die Software vernichten. Dieser EULA endet automatisch ohne weitere Benachrichtigung durch das Unternehmen, wenn Sie dessen Bestimmungen nicht einhalten. Alle Bestimmungen dieses EULA hinsichtlich ewährleistungen, Haftungsbeschränkungen, Rechtsbehelf und Beschädigungen bleiben nach Beendigung bestehen.
+
+
+=========================
+10. Beschränkte Gewährleistung
+=========================
+
+Die Software und Medien werden ohne Mängelgewähr geliefert. Sie wissen und stimmen zu, dass die Benutzung der Software und der Medien, auf denen sie sich befindet, auf Ihr eigenes Risiko geschieht. Ausgenommen anderslautender geltender Gesetze gewährleistet das Unternehmen dem Erstkäufer dieses Produktes, 
+dass das Speichermedium der Software bei normalem Gebrauch frei ist von Material- oder Verarbeitungsfehlern und entsprechend der Gebrauchsanweisung neunzig (90) Tage ab Kaufdatum einwandfrei funktioniert. Diese Gewährleistung ist nichtig, falls der Defekt durch Unfall, falsche oder missbräuchliche Anwendung oder Verletzung der Sorgfalt entstanden ist. Sollte die Software dieser Gewährleistung nicht entsprechen, so erhalten Sie, als Ihren ausschließlichen Rechtsbehelf, einen kostenfreien Ersatz oder die Rückerstattung des Kaufpreises - die Entscheidung darüber liegt bei dem Unternehmen - wenn Sie die defekte Software zurücksenden. Befolgen Sie dazu die Regeln zur Produktrückgabe im Benutzerhandbuch. Das Unternehmen gewährleistet nicht, dass die Software oder ihre Anwendungen oder Funktionen Ihren Anforderungen entspricht oder dass die Software ohne Unterbrechung oder fehlerfrei funktioniert.
+
+IM GRÖSSTMÖGLICHEN NACH GELTENDEM RECHT ZULÄSSIGEN UMFANG, AUSGENOMMEN DIE AUSDRÜCKLICH OBEN GENANNTE GEWÄHRLEISTUNG, LEHNT DAS UNTERNEHMEN JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG AB, EINSCHLIESSLICH UND OHNE BESCHRÄNKUNG AUF DIE STILLSCHWEIGENDE GEWÄHRLEISTUNG ALLGEMEINER GEBRAUCHSTAUGLICHKEIT ODER DER ANWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DEN AUSSCHLUSS VON RECHTSVERLETZUNGEN.  
+
+AUSGENOMMEN DIE AUSDRÜCKLICH OBEN GENANNTE GEWÄHRLEISTUNG, GEWÄHRLEISTET, GARANTIERT ODER VERTRITT DAS UNTERNEHMEN NICHT DIE VERWENDUNG ODER DAS ERGEBNIS DER VERWENDUNG DER SOFTWARE HINSICHTLICH FEHLERFREIHEIT, GENAUIGKEIT, ZUVERLÄSSIGKEIT, MARKTGÄNGIGKEIT ODER ÄHNLICHEM.  DA EINIGE GERICHTSSTÄNDE KEINEN AUSSCHLUSS ODER EINSCHRÄNKUNGEN STILLSCHWEIGENDER GEWÄHRLEISTUNGEN ANERKENNEN, TREFFEN DIE OBIGEN AUSSCHLÜSSE UND EINSCHRÄNKUNGEN MÖGLICHERWEISE NICHT AUF SIE ZU.
+
+DAS UNTERNEHMEN, SEINE ANGESTELLTEN, VORSTANDSMITGLIEDER, DIREKTOREN ODER LIZENZGEBER KÖNNEN UNTER KEINEN UMSTÄNDEN FÜR MITTELBARE, KONKRETE, NEBEN- ODER FOLGESCHÄDEN ODER AUF STRAFZUSCHLAG ZUM SCHADENSERSATZ ODER FÜR ANDERE SCHÄDEN (EINSCHLIESSLICH, JEDOCH OHNE BESCHRÄNKUNG AUF PERSONEN- ODER SACHBESCHÄDIGUNGEN, SCHÄDEN DURCH GEWINNVERLUST, GESCHÄFTSUNTERBRECHUNG, VERLUST VON BETRIEBSDATEN, VERLUST VON INTIMSPHÄRE, PFLICHTVERLETZUNG ODER -VERNACHLÄSSIGUNG), DIE DURCH DIE VERWENDUNG ODER IN VERBINDUNG MIT DER VERWENDUNG DER SOFTWARE ENTSTEHEN, HAFTBAR GEMACHT WERDEN. DIES GILT AUCH FÜR DEN FALL, DASS DAS UNTERNEHMEN ODER BEVOLLMÄCHTIGTE DES UNTERNEHMENS VON DER MÖGLICHKEIT SOLCHER SCHÄDEN UNTERRICHTET WURDEN. DA EINIGE GERICHTSSTÄNDE KEINEN  
+HAFTUNGSAUSSCHLUSS FÜR NEBEN- ODER FOLGESCHÄDEN ANERKENNEN, TRIFFT DER OBIGE AUSSCHLUSS MÖGLICHERWEISE NICHT AUF SIE ZU. DIE HAFTUNG DES UNTERNEHMENS FÜR SCHÄDEN, DIE IN BEZUG AUF DIE SOFTWARE ENTSTEHEN, ÜBERSTEIGT UNTER KEINEN UMSTÄNDEN DEN URSPRÜNGLICH VON IHNEN GEZAHLTEN KAUFBETRAG FÜR DIE SOFTWARE.
+
+
+=========================
+11. Allgemeines
+=========================
+
+Dieser EULA stellt den einzigen Vertrag dar, der zwischen Ihnen und dem Unternehmen besteht. Sollte sich eine der Bestimmungen dieses EULA als ungesetzlich, nichtig oder aus irgendeinem Grunde als uneinklagbar erweisen, so wird sie gestrichen, ohne die Gültigkeit oder Vollstreckbarkeit der übrigen Bestimmungen dieses EULA zu beeinträchtigen. Dieser EULA entspricht den Gesetzen der Provinz Ontario, Kanada, und unterliegt ausschließlich deren Bestimmungen zu Rechtsstreitigkeiten. Sie stimmen hiermit der Rechtsprechung der Gerichte der Provinz Ontario, Kanada, zu.
+
+© 2006 Groove Media Inc.  Alle Rechte vorbehalten.  Groove Games™ und das Firmenzeichen von Groove sind Warenzeichen der Groove Media Inc.  L.A. Street Racing™ und das zugehörige Logo sind Warenzeichen von Groove Media Inc. Produziert von Octagon Entertainment, Inc.  Octagon Entertainment™ und das Octagon Entertainment-Logo sind Warenzeichen von Octagon Entertainment Inc.  Entwickelt von Invictus Games Ltd.  Das Invictus-Logo ist ein Warenzeichen von Invictus Games Ltd. 
+
+Unter Verwendung der Open Dynamics Engine, Copyright © 2001-2004 by 
+Russell L. Smith. Alle Rechte vorbehalten. 
+
+Unter Verwendung des FMOD Sound System, © 1994-2006 by Firelight 
+Technologies Pty, Ltd. Alle Rechte vorbehalten. 
+
+Das Ratings-Icon ist ein Warenzeichen der Entertainment Software Association. 
+
+Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
+
+

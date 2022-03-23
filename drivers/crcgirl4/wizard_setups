@@ -1,0 +1,91 @@
+[TEX importer wizard settings]
+Texture node path=
+Texture file property name=sourcefile
+[TEX updater wizard settings]
+Mesh property name=mesh
+Texture property name=texture
+Texture file property name=sourcefile
+Mesh file property name=sourcefile
+[Render type wizard settings]
+Mesh node path=
+Texture node path=
+Render object node path=
+Mesh file property name=sourcefile
+Mesh property name=mesh
+Texture property name=texture
+Flags property name=flags
+[Multiple render type wizard settings]
+File finder mask=
+[LOD wizard settings]
+Mesh node path=
+Texture node path=
+Render object node path=
+[Vehicle/parts editor window settings no. 0]
+Mesh node path=
+Texture node path=
+Render object node path=
+Physics object node path=
+Game object node path=
+Mesh file path=
+Texture file path=
+Script file path=
+Vehicle configuration script file=
+Vehicle name=
+Physics shape property name=shape
+Physics mass property name=mass
+Game native property name=native
+Game script property name=script
+[Vehicle/parts editor window settings no. 1]
+Mesh node path=
+Texture node path=
+Render object node path=
+Physics object node path=
+Game object node path=
+Mesh file path=
+Texture file path=
+Script file path=
+Vehicle configuration script file=
+Vehicle name=
+Physics shape property name=shape
+Physics mass property name=mass
+Game native property name=native
+Game script property name=script
+[Package to RPK converter wizard settings]
+Save command-line parametering to package=0
+[Vehicle importer wizard settings]
+Mesh node path=
+Texture node path=
+Render object node path=
+Physics object node path=
+Vehicle game type path=
+Engine parts game type path=
+Body parts game type path=
+Runing gear parts game type path=
+Java IDs type=1
+FWD amount=100
+RWD amount=0
+Paintable texture ID=???
+Data path=
+Meshes directory=meshes\
+Textures directory=textures\
+Scripts directory=scripts\
+Vehicle name=
+Physics shape property name=shape
+Physics mass property name=mass
+Game native property name=native
+Game script property name=script
+[Map constructor wizard settings]
+Mesh node path=
+Texture node path=
+Render object node path=
+Game instance node path=
+[Obstacle importer wizard settings]
+Game instance node path=
+Game type node path=
+Shadow texture path=
+Game instance gametype property name=gametype
+Game instance params property name=params
+Create parent node by TXT filename=0
+Create parent node by types=0
+[Export subtree window settings]
+Format string=%11%11%7:%1\t//%10
